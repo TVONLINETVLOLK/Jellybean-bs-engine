@@ -55,7 +55,7 @@ jobs:
           haxelib install hscript
           haxelib install flixel-addons
           haxelib install hxCodec
-          haxelib git linc_luajit https://github.com/jigsaw-4277821/linc_luajit.git --quiet
+          haxelib git linc_luajit https://github.com/MAJigsaw77/linc_luajit.git --quiet
           haxelib git hxvm-luajit https://github.com/nebulazorua/hxvm-luajit.git --quiet
           haxelib git extension-webview https://github.com/MatheusSilver/extension-webview.git --quiet
           haxelib list
